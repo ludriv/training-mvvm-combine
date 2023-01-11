@@ -7,4 +7,7 @@
    <FileRef
       location = "group:exercise-1/start/MVVMApp/Start_MVVMApp_1.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:exercise-2/start/MVVMApp/Start_MVVMApp_2.xcodeproj">
+   </FileRef>
 </Workspace>
